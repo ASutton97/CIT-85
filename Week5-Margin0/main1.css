@@ -1,0 +1,33 @@
+body{
+	background: blue;
+	margin: 0px 100px;
+}
+section{
+	border: 3px solid black;
+	background: green;
+	box-align:  center;
+	margin: 0 auto;
+}
+
+div{
+	width: 250px;
+	height: 200px;
+	border-radius: 50%;
+	border: 10px ridge gold;
+	margin: 0 auto;
+	overflow:hidden;
+}
+
+div img
+{
+	width: 250px;
+	height: 200px;
+}
+
+h1{
+	color: blue;
+}
+
+h2{
+	color: red;
+}
