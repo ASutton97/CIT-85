@@ -1,0 +1,17 @@
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    background-image: url("dock.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-origin: border-box; 
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+    font-size: 10vh
+}
