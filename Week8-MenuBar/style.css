@@ -1,0 +1,10 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+li{
+    align-self: center;
+    padding: 10px;
+    margin-right: 10px; 
+}
