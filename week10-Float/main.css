@@ -1,0 +1,28 @@
+article, div, img{
+    border: 1px solid red;
+    margin: 10px;
+}
+
+article {
+    height: 300px;
+    overflow: auto;
+}
+
+div {
+    height: 200px;
+
+}
+img{
+    border: 1px solid red;
+}
+#main{
+    float: right;
+}
+
+#second{
+    float: left;
+}
+
+
+
+
