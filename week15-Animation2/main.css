@@ -1,0 +1,21 @@
+@keyframes changePos {
+    0%   {left:0px; top:0px;}
+    25%  {left:90%; top:90%;}
+    50%  {left:0px; top:90%;}
+    75%  {left:90%; top:0px;}
+    100% {left:0px; top:0px;}
+  }
+
+div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border: 3px solid black;
+    border-radius: 50%;
+    background: red;
+    animation-name: changePos;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+
